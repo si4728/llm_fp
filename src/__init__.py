@@ -1,0 +1,1 @@
+"""Function delegation project package."""
