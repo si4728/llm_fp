@@ -1,0 +1,9 @@
+{
+  "spec_version": "v1",
+  "cases": {
+    "C01": {"rule": "integer_sum", "tolerance": 0},
+    "C02": {"rule": "float_division", "tolerance": 1e-9},
+    "C03": {"rule": "division_by_zero", "tolerance": 0},
+    "C11": {"rule": "clarify_if_ambiguous", "tolerance": 0}
+  }
+}
